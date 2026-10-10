@@ -16,26 +16,26 @@ AER is where we make the things we'd like to use ourselves. Reading tools, music
 
 ### Read, remember, get things done
 
-| Project | What we're building | Take a look |
-| :--- | :--- | :--- |
-| **[Pensieve](https://github.com/Team-AER/pensieve)** | A self-hosted feed reader, a personalized daily paper, and a memory of what you read. | [Explore →](https://aer.app/pensieve/) |
-| **[Hedwig](https://github.com/Team-AER/hedwig)** | A unified, self-hosted webmail client. Your inboxes, in one place. | [Explore →](https://aer.app/hedwig/) |
-| **[Quill](https://github.com/Team-AER/quill)** | Meeting transcripts, speaker separation, key slides, and notes grounded in the recording. | [Explore →](https://aer.app/quill/) |
+| Project | What we're building |
+| :--- | :--- |
+| **[Pensieve](https://github.com/Team-AER/pensieve)**<br><sub><a href="https://aer.app/pensieve/">Overview →</a></sub> | A self-hosted feed reader, a personalized daily paper, and a memory of what you read. |
+| **[Hedwig](https://github.com/Team-AER/hedwig)**<br><sub><a href="https://aer.app/hedwig/">Overview →</a></sub> | A unified, self-hosted webmail client. Your inboxes, in one place. |
+| **[Quill](https://github.com/Team-AER/quill)**<br><sub><a href="https://aer.app/quill/">Overview →</a></sub> | Meeting transcripts, speaker separation, key slides, and notes grounded in the recording. |
 
 ### Make something you can hear
 
-| Project | What we're building | Take a look |
-| :--- | :--- | :--- |
-| **[Cantis](https://github.com/Team-AER/Cantis)** | An on-device music studio for Apple Silicon, built around ACE-Step. | [Explore →](https://aer.app/cantis/) |
-| **[PolyJuiceVoice](https://github.com/Team-AER/PolyJuiceVoice)** | Local speech generation, voice design, and voice cloning with Qwen3-TTS. | [Explore →](https://aer.app/polyjuicevoice/) |
-| **[Subtly](https://github.com/Team-AER/Subtly)** | Subtitles for your videos, generated locally with Whisper. | [Explore →](https://aer.app/subtly/) |
+| Project | What we're building |
+| :--- | :--- |
+| **[Cantis](https://github.com/Team-AER/Cantis)**<br><sub><a href="https://aer.app/cantis/">Overview →</a></sub> | An on-device music studio for Apple Silicon, built around ACE-Step. |
+| **[PolyJuiceVoice](https://github.com/Team-AER/PolyJuiceVoice)**<br><sub><a href="https://aer.app/polyjuicevoice/">Overview →</a></sub> | Local speech generation, voice design, and voice cloning with Qwen3-TTS. |
+| **[Subtly](https://github.com/Team-AER/Subtly)**<br><sub><a href="https://aer.app/subtly/">Overview →</a></sub> | Subtitles for your videos, generated locally with Whisper. |
 
 ### Keep the tools close
 
-| Project | What we're building | Take a look |
-| :--- | :--- | :--- |
-| **[Avifors](https://github.com/Team-AER/avifors)** | Demand-loaded inference workers and bounded leases: several models sharing one GPU. | [Explore →](https://aer.app/avifors/) |
-| **[PromptMask](https://github.com/Team-AER/PromptMask)** | On-device masking of sensitive details in AI chat prompts, with a preview before you send. | [Explore →](https://aer.app/promptmask/) |
+| Project | What we're building |
+| :--- | :--- |
+| **[Avifors](https://github.com/Team-AER/avifors)**<br><sub><a href="https://aer.app/avifors/">Overview →</a></sub> | Demand-loaded inference workers and bounded leases: several models sharing one GPU. |
+| **[PromptMask](https://github.com/Team-AER/PromptMask)**<br><sub><a href="https://aer.app/promptmask/">Overview →</a></sub> | On-device masking of sensitive details in AI chat prompts, with a preview before you send. |
 
 [See the full catalogue →](https://aer.app/#projects)
 
